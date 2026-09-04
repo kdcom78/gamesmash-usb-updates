@@ -1,0 +1,4 @@
+version=1.5
+url=PASTE_YOUR_MEDIAFIRE_OR_DIRECT_DOWNLOAD_PAGE_HERE
+mode=browser
+notes=GameSmash USB Creator v1.5
